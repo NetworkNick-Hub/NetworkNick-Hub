@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+<img src="banner_github.gif" alt="GitHub Banner" width="100%" />
 
 # Hello World!, I'm Nico, a Argentine Web Developer 👋🏼:
 🛜 currently working on my own [webpage](https://www.networknick.online)<br>👨🏼‍🎓 studying machine learning at AWS<br>👨🏼‍💻 working as a web developer since 2016 <br>🎬 just started out with my BLOG! <i>Networknick.online/blog</i>
